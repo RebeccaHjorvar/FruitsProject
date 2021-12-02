@@ -9,6 +9,8 @@
   "author": "Rebecca Hjörvar",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^4.2.1"
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.0.14",
+    "nodemon": "^2.0.15"
   }
 }
